@@ -1,3 +1,3 @@
 # themusicinstitute
 
-[GitHub] ( https://dbaettig.github.io/themusicinstitute/ )
+ [Github pages](https://dbaettig.github.io/themusicinstitute/)
